@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenNewActivity</string>
+    <string name="tv_name_label">Nome </string>
+    <string name="et_name_hint">Insira o nome aqui</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="name">Nome %s</string>
+</resources>
